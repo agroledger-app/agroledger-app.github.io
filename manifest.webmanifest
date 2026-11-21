@@ -1,0 +1,27 @@
+{
+  "name": "AgroLedger",
+  "short_name": "AgroLedger",
+  "description": "Greenhouse accounts: workers, expenses, income, harvest and export.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F1F4F3",
+  "theme_color": "#0F766E",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
